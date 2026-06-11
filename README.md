@@ -260,14 +260,19 @@ ibrahim = {
 
 ---
 
+<div align="center">
+
 ## 🏆 Certifications
 
-| Certificate | Issuer |
-|---|---|
-| Problem Solving (Intermediate) | HackerRank |
-| Networking Basics | Cisco Networking Academy |
-| Responsive Web Design | freeCodeCamp |
-| 30-Day Programming Challenge | Wisdom Sprouts |
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wisdom%20Sprouts-30--Day%20Programming%20Challenge-purple?style=for-the-badge"/>
+
+</div>
 
 ---
 
