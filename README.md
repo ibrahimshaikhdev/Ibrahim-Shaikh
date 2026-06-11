@@ -30,7 +30,7 @@
 
 <!-- Waving banner — full name, shorter text so it renders completely -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=300&section=header&text=Ibrahim+Shaikh&fontSize=65&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=200&section=header&text=Ibrahim+Shaikh&fontSize=65&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
   width="100%"
 />
 
