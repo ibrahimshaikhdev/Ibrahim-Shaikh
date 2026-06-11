@@ -264,13 +264,28 @@ ibrahim = {
 
 ## 🏆 Certifications
 
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Wisdom%20Sprouts-30--Day%20Programming%20Challenge-purple?style=for-the-badge"/>
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Issuer</th>
+  </tr>
+  <tr>
+    <td>Problem Solving (Intermediate)</td>
+    <td>HackerRank</td>
+  </tr>
+  <tr>
+    <td>Networking Basics</td>
+    <td>Cisco Networking Academy</td>
+  </tr>
+  <tr>
+    <td>Responsive Web Design</td>
+    <td>freeCodeCamp</td>
+  </tr>
+  <tr>
+    <td>30-Day Programming Challenge</td>
+    <td>Wisdom Sprouts</td>
+  </tr>
+</table>
 
 </div>
 
