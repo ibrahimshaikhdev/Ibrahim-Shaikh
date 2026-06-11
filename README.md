@@ -29,7 +29,10 @@
 <br/><br/>
 
 <!-- Waving banner — full name, shorter text so it renders completely -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=180&section=header&text=Ibrahim+Shaikh&fontSize=45&fontColor=ffffff&fontAlignY=55&desc=Full+Stack+Developer+%7C+Pune%2C+India&descSize=17&descAlignY=72" width="100%"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=180&section=header&text=Ibrahim+Shaikh&fontSize=55&fontColor=ffffff&fontAlignY=60"
+  width="100%"
+/>
 
 </div>
 
