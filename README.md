@@ -1,34 +1,35 @@
 <!--
   SEO: Ibrahim Shaikh, Full Stack Developer, Pune, India
   Ibrahim Shaikh developer, Ibrahim Shaikh GitHub, ibrahimshaikhdev,
-  Ibrahim Shaikh React FastAPI Python, Ibrahim Shaikh NMIET
+  Ibrahim Shaikh React FastAPI Python Java, Ibrahim Shaikh NMIET
 -->
 
 <div align="center">
 
-<!-- Animated typing intro -->
-<a href="https://github.com/ibrahimshaikhdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ibrahim+Shaikh+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Building+real+things+that+ship." alt="Typing SVG" />
-</a>
+<!-- Animated typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ibrahim+Shaikh+%F0%9F%91%8B;Full+Stack+Developer+%7C+Pune%2C+India;Python+%7C+Java+%7C+React+%7C+FastAPI;Building+real+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges row -->
+<!-- Contact badges -->
 <a href="mailto:ibrahimshaikh.eng@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ibrahimshaikh.eng-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/ibrahim-shaikh" target="_blank">
+&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/ibrahimshaikhdev">
   <img src="https://img.shields.io/badge/GitHub-ibrahimshaikhdev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ibrahimshaikhdev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=120&section=header&text=Ibrahim%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer%20%7C%20Pune%2C%20India&descAlignY=85&descSize=16" width="100%"/>
+<!-- Waving banner — full name, shorter text so it renders completely -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=140&section=header&text=Ibrahim+Shaikh&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Full+Stack+Developer+%7C+Pune%2C+India&descSize=18&descAlignY=80" width="100%"/>
 
 </div>
 
@@ -36,13 +37,15 @@
 
 ## 👨‍💻 About Me
 
+> The `ibrahim = { }` block below is intentional — it's a developer way of introducing myself. Think of it as a business card written in code.
+
 ```python
 ibrahim = {
     "name"       : "Ibrahim Shaikh",
     "role"       : "Full Stack Developer",
     "location"   : "Pune, India 🇮🇳",
     "email"      : "ibrahimshaikh.eng@gmail.com",
-    "stack"      : ["Python", "React.js", "FastAPI", "Spring Boot", "AWS"],
+    "stack"      : ["Python", "Java", "React.js", "FastAPI", "Spring Boot", "AWS"],
     "currently"  : "Final year CE @ NMIET, SPPU (2027 batch)",
     "looking_for": "SDE / Full Stack roles — open to work 🚀",
     "fun_fact"   : "I automate things so I have more time to automate more things"
@@ -53,33 +56,108 @@ ibrahim = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
-</p>
+> All icons are labeled so you always know what you're looking at.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
-</p>
+### 🗣️ Languages
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,mysql,mongodb&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/><b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/><b>Java</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><b>JavaScript</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/><b>HTML5</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/><b>CSS3</b>
+    </td>
+  </tr>
+</table>
 
-### Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,linux,vscode&theme=dark" />
-</p>
+### 🎨 Frontend
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/><b>React.js</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br/><b>Next.js</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind"/><br/><b>Tailwind</b>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend & Databases
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/><br/><b>FastAPI</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br/><b>Spring Boot</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/><br/><b>Flask</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/><b>MongoDB</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/><b>MySQL</b>
+    </td>
+  </tr>
+</table>
+
+### ☁️ Tools & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br/><b>GitHub</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/><br/><b>AWS</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/><br/><b>Postman</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/><b>VS Code</b>
+    </td>
+  </tr>
+</table>
+
+### 🤖 AI / ML
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br/><b>PyTorch</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br/><b>TensorFlow</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=python&logoColor=white" alt="spaCy"/><br/><b>spaCy NLP</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/><br/><b>OpenAI API</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,13 +229,15 @@ ibrahim = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimshaikhdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<!-- Using anuraghazra stats — most reliable free option -->
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimshaikhdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshaikhdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshaikhdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshaikhdev&theme=tokyonight&hide_border=true" height="165"/>
+<!-- Streak stats — using git.io/streak-stats which is more stable -->
+<img src="https://streak-stats.demolab.com/?user=ibrahimshaikhdev&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -172,6 +252,8 @@ ibrahim = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ibrahimshaikhdev/ibrahimshaikhdev/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
+
+> **Snake not showing?** Go to your repo → Actions tab → "Generate Snake" → Run workflow manually. Then wait 60 seconds and refresh.
 
 ---
 
@@ -190,8 +272,8 @@ ibrahim = {
 
 <div align="center">
 
-**Open to SDE / Full Stack Developer roles (2027 fresher)**  
-**Pune-based · Remote-friendly · Available for internships**
+**Open to SDE / Full Stack Developer roles — 2027 fresher**  
+**Pune-based · Remote-friendly · Available for internships now**
 
 <br/>
 
@@ -199,7 +281,7 @@ ibrahim = {
   <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/ibrahim-shaikh">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -218,7 +300,7 @@ ibrahim = {
 <!--
 Ibrahim Shaikh Full Stack Developer Pune India
 Ibrahim Shaikh GitHub ibrahimshaikhdev
-Ibrahim Shaikh Python React FastAPI developer
+Ibrahim Shaikh Python Java React FastAPI developer
 Ibrahim Shaikh NMIET SPPU 2027 batch software engineer
 Ibrahim Shaikh SDE fresher Pune
 ibrahimshaikh.eng@gmail.com
