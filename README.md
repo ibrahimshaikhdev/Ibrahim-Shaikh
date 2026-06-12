@@ -170,7 +170,7 @@ ibrahim = {
 <tr>
 <td width="50%">
 
-### 🤖 [Autonomous Ops AI](https://github.com/ibrahimshaikhdev)
+### 🤖 [Autonomous Ops AI](https://autonomous-rho.vercel.app/)
 > Workflow automation platform inspired by n8n
 
 - Visual React.js pipeline dashboard
