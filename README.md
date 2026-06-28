@@ -256,7 +256,6 @@ ibrahim = {
   </picture>
 </div>
 
-> **Snake not showing?** Go to your repo → Actions tab → "Generate Snake" → Run workflow manually. Then wait 60 seconds and refresh.
 
 ---
 
