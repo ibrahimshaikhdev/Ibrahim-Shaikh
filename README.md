@@ -40,7 +40,6 @@
 
 ## 👨‍💻 About Me
 
-> The `ibrahim = { }` block below is intentional — it's a developer way of introducing myself. Think of it as a business card written in code.
 
 ```python
 ibrahim = {
@@ -59,7 +58,6 @@ ibrahim = {
 
 ## 🛠️ Tech Stack
 
-> All icons are labeled so you always know what you're looking at.
 
 ### 🗣️ Languages
 
