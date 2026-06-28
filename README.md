@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/ibrahimshaikhdev">
-  <img src="https://img.shields.io/badge/GitHub-ibrahimshaikhdev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ibrahimshaikhdev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS"/>
 
 <br/><br/>
