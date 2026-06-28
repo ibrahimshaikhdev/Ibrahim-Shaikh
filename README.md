@@ -177,7 +177,7 @@
 - Deployed on **AWS EC2 + S3**
 - ⚡ Reduced manual task setup time by **40%**
 
-`Python` `FastAPI` `React.js` `MongoDB` `AWS`
+`React.js` `Nest.js` `MySQL` `AWS`
 
 </td>
 <td width="50%">
@@ -190,7 +190,7 @@
 - Flask REST API — under **2 sec/request**
 - Improved resume-job match accuracy by **35%**
 
-`Python` `Flask` `NLP` `spaCy`
+`Python` `Java Springboot` `NLP` `spaCy` `React.js`
 
 </td>
 </tr>
@@ -205,7 +205,7 @@
 - Secure image upload pipeline
 - Reduced invalid input errors by **90%**
 
-`Python` `PyTorch` `Deep Learning` `REST API`
+`Python` `PyTorch` `Java Springboot` `REST API` `MySQL`
 
 </td>
 <td width="50%">
@@ -218,7 +218,7 @@
 - Fixed 15+ cross-browser layout issues
 - React.js · Chrome DevTools · Git workflows
 
-`React.js` `HTML5` `CSS3` `REST API`
+`React.js` `HTML5` `CSS3` `javascript`
 
 </td>
 </tr>
