@@ -42,7 +42,7 @@
 
 
 ```python
-ibrahim = {
+{
     "name"       : "Ibrahim Shaikh",
     "role"       : "Full Stack Developer",
     "location"   : "Pune, India 🇮🇳",
