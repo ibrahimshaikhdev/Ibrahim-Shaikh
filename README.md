@@ -298,17 +298,25 @@
 <br/>
 
 <a href="mailto:ibrahimshaikh.eng@gmail.com">
+  
   <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     
 </a>
+
 &nbsp;
+
 <a href="https://linkedin.com/in/ibrahim-shaikh-dev">
+  
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     
 </a>
+
 &nbsp;
+
 <a href="https://github.com/ibrahimshaikhdev">
+  
   <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
 </a>
 
 <br/><br/>
